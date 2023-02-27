@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**d-bev/d-bev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current GU Senior studying Computer Science
 
-Here are some ideas to get you started:
+He/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on ...
+  - Graduating :^)
+  - Learning and practicing OOP, specifically in Python
+  
+I’m currently learning ...
+  - threeJS graphics
+  - IoT basics / Rasperry Pi 
+  - creation and design of programming languages
+
+I’m looking to collaborate on ...
+  - just about any and all kinds of games and related tools
+  - general software tools
+
+Some of my projects:
+
+meh-jong : a WIP object-oriented game of riichi mahjong (Python)
+generic matching game (Web) : a Candy Crush parody to be played in browser (JavaScript, ExpressJS)
+generic matching game (Mobile) : a Candy Crush parody to be played on Android devices (Kotlin)
