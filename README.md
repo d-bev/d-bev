@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Current GU Senior studying Computer Science
-
-He/him
+Recent GU graduate, CPSC B.S.
 
 I’m currently working on:
   - a VM I've written from scratch
