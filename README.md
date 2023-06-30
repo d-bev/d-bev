@@ -5,7 +5,7 @@ Recent GU graduate, CPSC B.S.
 I’m currently working on:
   - a VM (based in C++) that was a class project
   - Getting a tech-related job
-  - Strengthening my programming skills
+  - Strengthening my programming skills, especially object-oriented
   
 I’m currently learning:
   - threeJS graphics
