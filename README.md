@@ -20,8 +20,4 @@ Some of my projects:
 - generic matching game (Web) : a Candy Crush parody to be played in browser (JavaScript, ExpressJS); not optimized
 - generic matching game (Mobile) : a Candy Crush parody to be played on Android devices (Kotlin); optimized for (new-ish) android devices
 - meh-jong : a WIP object-oriented game of riichi mahjong (Python)
-- a VM written in C++ (currently WIP, but will make public when done) which contains fully functioning:
-      - Token Generator (for input stream)
-      - Lexer & Parser (used to create Abstract Syntax Trees to maintain semantic meaning)
-      - Semantic Analyzer (of aforementioned trees)
-      - Code Generator
+- a VM written in C++ (currently WIP, but will make public when done) which contains fully functioning: Token Generator (for input stream), Lexer & Parser (used to create Abstract Syntax Trees to maintain semantic meaning), Semantic Analyzer (of aforementioned trees), Code Generator
