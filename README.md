@@ -2,6 +2,7 @@
 
 Recent Computer Science (B.S.) graduate from Gonzaga University
 
+
 I’m currently working on:
   - a C++-based VM (an extension of a class project)
   - Getting an internship or similar experience in the field
