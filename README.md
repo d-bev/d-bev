@@ -11,6 +11,7 @@ I’m currently working on:
 I’m currently learning and researching:
   - Videogame level design and texture modeling
   - Unity and Unreal Engine
+  - Shell scripts / Bash
   
 I’m looking to improve upon:
   - object-oriented programming, specifically in Python
