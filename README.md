@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Recent Computer Science (B.S.) graduate from Gonzaga University
+## Hello there 👋
 
 I’m currently working on:
   - Getting an internship or in-field experience
