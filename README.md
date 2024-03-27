@@ -11,7 +11,7 @@
 - Researching Godot (another game engine), as it's less intsense and considerably more "beginner friendly" than UE4
 
 # Projects I've contributed to
-- https://github.com/immobiliareai : most of my work was SQL database management and optimization. Though I did contribute to the app and API as well, my work is not reflected in commits (much of my work was done collaboratively with two fellow students). After graduating, I also helped onboard students that are currently contributing to the project.
+- https://github.com/immobiliareai : most of my work was SQL database management and optimization. Though I did contribute to the app and API as well, my work is not reflected in commits (much of my work here was done collaboratively with two fellow students, and these commits are credited to them). After graduating, I also helped onboard students that are currently contributing to the project.
 
 # Completed Projects
 - [WebMatchingGame] - my first-ever attempt at making a matching game (with database functionality, which is broken). Created in a Web Development class.
