@@ -5,13 +5,14 @@
 - [meh-jong] - a traditional Riichi Mahjong game (OOP in Python), that may be later warped into a custom variation of mahjong
 - [password-generator] - A simple and secure password generator for use in IT environments
 
-# Things I'm currently researching
-- Researching UE4 (and therefore researching C#)
-- Researching Unity, but might give this up as Unity moves towards being pay-per-download
-- Researching Godot (another game engine), as it's less intsense and considerably more "beginner friendly" than UE4
+# Things I'm currently researching, learning, and/or practicing
+- (all three) Python 3.10 and OOP within Python
+- (researching and learning) Unreal Engine (and therefore researching C#)
+- (researching) Godot (another game engine), as it's less expensive and considerably more "beginner friendly" than UE
 
 # Projects I've contributed to
-- https://github.com/immobiliareai : most of my work was SQL database management and optimization. Though I did contribute to the app and API as well, my work is not reflected in commits (much of my work here was done collaboratively with two fellow students, and these commits are credited to them). After graduating, I also helped onboard students that are currently contributing to the project.
+- https://github.com/orgs/immobiliareai/repositories?q=immobiliare : most of my work was SQL database management and optimization. Though I did contribute to the app and API as well, my work is not reflected in commits (much of my work here was done collaboratively with two fellow students, and these commits are credited to them). After graduating, I also helped onboard students that are currently contributing to the project.
+- https://github.com/orgs/Pangeon-LLC/repositories?q=immobiliare : some of my work is also captured here (we moved codebases in the middle of the year).
 
 # Completed Projects
 - [WebMatchingGame] - my first-ever attempt at making a matching game (with database functionality, which is broken). Created in a Web Development class.
