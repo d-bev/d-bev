@@ -3,7 +3,6 @@
 
 # Current Projects
 - [meh-jong] - a traditional Riichi Mahjong game (OOP in Python), that may be later warped into a custom variation of mahjong
-- [password-generator] - A simple and secure password generator for use in IT environments
 
 # Things I'm currently researching, learning, and/or practicing
 - (all three) Python 3.10 and OOP within Python
@@ -17,4 +16,5 @@
 # Completed Projects
 - [WebMatchingGame] - my first-ever attempt at making a matching game (with database functionality, which is broken). Created in a Web Development class.
 - [AndroidMatchingGame] - a Kotlin-based matching game, similar to Bejeweled. Created with another student in an Android App Development class.
+- [password-generator] - A simple and secure password generator for use in IT environments
 - A VM to run mypl programs (written in C++). This is currently in private repositories, and I'm in the process of moving and cleaning the code. Created in a Programing Languages Class.
